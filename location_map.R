@@ -17,7 +17,7 @@ library("RColorBrewer")
 library("forcats")
 library("tidyverse")
 
-#get geocordinated for location
+#get geocordinates for location
 
 location <- geocode("New delhi", source = "dsk")
 
